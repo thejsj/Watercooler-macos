@@ -1,0 +1,12 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>Watercooler</title>
+        <item>
+            <title>1.0.0-alpha-1-g5643cd1</title>
+            <pubDate>Mon, 06 Jul 2020 01:09:14 -0700</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler-1.0.0-alpha-1-g5643cd1.zip" sparkle:version="1" sparkle:shortVersionString="1.0.0-alpha-1-g5643cd1" length="10234089" type="application/octet-stream" sparkle:edSignature="zlRLjj2jagh7zm8Rfp2NKOc1YHKEXoAVGfkToUkIVeuDhFPttjtWj13gRIDp0AuubqUCjGKfBwZgI8q6ZFkWBA=="/>
+        </item>
+    </channel>
+</rss>
