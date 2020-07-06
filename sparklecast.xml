@@ -8,9 +8,7 @@
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler-1.0.2.zip" sparkle:version="2" sparkle:shortVersionString="1.0" length="10235673" type="application/octet-stream" sparkle:edSignature="G9foPZkESwv2XUmuvIyirEWohxXIsF5qpaGsQmEBKNUcEJo1xg4iwJZ2pV/Xo3LESuaXQVGGRX0Is9CHRLdACw=="/>
             <sparkle:deltas>
-                <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler2-1.delta" sparkle:version="2" sparkle:shortVersionString="1.0" sparkle:deltaFrom="1" length="24113" type="application/octet-stream" sparkle:edSignature="2Zz4PG6k22S695yljiT3B8fdR71/b0+PMjp5ICg6c7BEJLqomgEdPYhH2s1YBUqqEvxvCY7QbTESMy0jslyoAw=="/>
-                <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler2-1.delta" sparkle:version="2" sparkle:shortVersionString="1.0" sparkle:deltaFrom="1" length="24113" type="application/octet-stream" sparkle:edSignature="2Zz4PG6k22S695yljiT3B8fdR71/b0+PMjp5ICg6c7BEJLqomgEdPYhH2s1YBUqqEvxvCY7QbTESMy0jslyoAw=="/>
-                <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler2-1.delta" sparkle:version="2" sparkle:shortVersionString="1.0" sparkle:deltaFrom="1" length="24113" type="application/octet-stream" sparkle:edSignature="2Zz4PG6k22S695yljiT3B8fdR71/b0+PMjp5ICg6c7BEJLqomgEdPYhH2s1YBUqqEvxvCY7QbTESMy0jslyoAw=="/>
+                <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler2-1.delta" sparkle:version="2" sparkle:shortVersionString="1.0" sparkle:deltaFrom="1" length="24109" type="application/octet-stream" sparkle:edSignature="3MdaDnpUOMks5gLxiFBlNkmytqIcwE2SBJcEJb0cwiIFhCaKhMrVOgGvB3C9cL1fz1xmAT3QeTJHuyLLkic/Aw=="/>
             </sparkle:deltas>
         </item>
         <item>
@@ -18,18 +16,6 @@
             <pubDate>Mon, 06 Jul 2020 11:43:36 -0700</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler-1.0.1.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="10235643" type="application/octet-stream" sparkle:edSignature="7T2pY3o4afryF+eJfBn5YR4ZBxoqM5WvrH2tVmOVghDxJ4JFLsRzjPM8bGDLlss9EBVJDdR/7TMMwzNosHboBw=="/>
-        </item>
-        <item>
-            <title>1.0.0-alpha-2</title>
-            <pubDate>Mon, 06 Jul 2020 01:55:47 -0700</pubDate>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler-1.0.0-alpha-2.zip" sparkle:version="1" sparkle:shortVersionString="1.0.0-alpha-2" length="10235691" type="application/octet-stream" sparkle:edSignature="ZGSZV5gUPdJfn2h4Cz+RCEaYChyMzxbBbz0HsPJZOsTaPRvJwJNl3wi4I+/STPfW0pWTO8HAGbrwTfOXI3CaBw=="/>
-        </item>
-        <item>
-            <title>1.0.0-alpha-1-g5643cd1</title>
-            <pubDate>Mon, 06 Jul 2020 01:54:59 -0700</pubDate>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler-1.0.0-alpha-1-g5643cd1.zip" sparkle:version="1" sparkle:shortVersionString="1.0.0-alpha-1-g5643cd1" length="10234089" type="application/octet-stream" sparkle:edSignature="zlRLjj2jagh7zm8Rfp2NKOc1YHKEXoAVGfkToUkIVeuDhFPttjtWj13gRIDp0AuubqUCjGKfBwZgI8q6ZFkWBA=="/>
         </item>
     </channel>
 </rss>
