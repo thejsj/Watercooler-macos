@@ -3,8 +3,14 @@
     <channel>
         <title>Watercooler</title>
         <item>
+            <title>1.0.0-alpha-2</title>
+            <pubDate>Mon, 06 Jul 2020 01:55:47 -0700</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler-1.0.0-alpha-2.zip" sparkle:version="1" sparkle:shortVersionString="1.0.0-alpha-2" length="10235691" type="application/octet-stream" sparkle:edSignature="p7EKRta9K8X7XKbpwwJS3mx47uIwow4xEyzOVefb6tWmTdqGMYe3Cpz5G2t8TXSV9OGNkutYpGKeav8rEOTYAw=="/>
+        </item>
+        <item>
             <title>1.0.0-alpha-1-g5643cd1</title>
-            <pubDate>Mon, 06 Jul 2020 01:09:14 -0700</pubDate>
+            <pubDate>Mon, 06 Jul 2020 01:54:59 -0700</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler-1.0.0-alpha-1-g5643cd1.zip" sparkle:version="1" sparkle:shortVersionString="1.0.0-alpha-1-g5643cd1" length="10234089" type="application/octet-stream" sparkle:edSignature="zlRLjj2jagh7zm8Rfp2NKOc1YHKEXoAVGfkToUkIVeuDhFPttjtWj13gRIDp0AuubqUCjGKfBwZgI8q6ZFkWBA=="/>
         </item>
