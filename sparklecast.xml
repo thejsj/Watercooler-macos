@@ -14,5 +14,11 @@
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler-1.0.0-alpha-1-g5643cd1.zip" sparkle:version="1" sparkle:shortVersionString="1.0.0-alpha-1-g5643cd1" length="10234089" type="application/octet-stream" sparkle:edSignature="zlRLjj2jagh7zm8Rfp2NKOc1YHKEXoAVGfkToUkIVeuDhFPttjtWj13gRIDp0AuubqUCjGKfBwZgI8q6ZFkWBA=="/>
         </item>
+        <item>
+            <title>1.0</title>
+            <pubDate>Mon, 06 Jul 2020 11:43:36 -0700</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler-1.0.1.zip" sparkle:version="1" sparkle:shortVersionString="1.0" length="10235643" type="application/octet-stream" sparkle:edSignature="7T2pY3o4afryF+eJfBn5YR4ZBxoqM5WvrH2tVmOVghDxJ4JFLsRzjPM8bGDLlss9EBVJDdR/7TMMwzNosHboBw=="/>
+        </item>
     </channel>
 </rss>
