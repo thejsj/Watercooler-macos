@@ -4,12 +4,19 @@
         <title>Watercooler</title>
         <item>
             <title>1.0</title>
+            <pubDate>Wed, 15 Jul 2020 11:55:11 -0700</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler-1.0.3.zip" sparkle:version="3" sparkle:shortVersionString="1.0" length="10499420" type="application/octet-stream" sparkle:edSignature="y7zh5/MdKFZZQQO88PPdkFNSZ1RR4mLBVO7rpqmG5fm8TUy5DXQkuDuLQkXviRFC4tMX9WbCxi3Nxs/gphE+Bw=="/>
+            <sparkle:deltas>
+                <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler3-2.delta" sparkle:version="3" sparkle:shortVersionString="1.0" sparkle:deltaFrom="2" length="540004" type="application/octet-stream" sparkle:edSignature="q498EfBghopDahy9BX0UfsRTxpjIap08OFpauyYoxWvWX381FgdbaIXO7xeBo2nLM80LthUuqrZD0hmrb+MrAQ=="/>
+                <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler3-1.delta" sparkle:version="3" sparkle:shortVersionString="1.0" sparkle:deltaFrom="1" length="541107" type="application/octet-stream" sparkle:edSignature="XVj1+PWXjAiN/vGYW6QmuFFKeIkPdlvmFfCK0CpDlJZg0QV3LJ24N47RO/7ww+vcevY5Z/Dh1Kg3aKBx+kV7Bg=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Mon, 06 Jul 2020 11:49:36 -0700</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler-1.0.2.zip" sparkle:version="2" sparkle:shortVersionString="1.0" length="10235673" type="application/octet-stream" sparkle:edSignature="G9foPZkESwv2XUmuvIyirEWohxXIsF5qpaGsQmEBKNUcEJo1xg4iwJZ2pV/Xo3LESuaXQVGGRX0Is9CHRLdACw=="/>
-            <sparkle:deltas>
-                <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler2-1.delta" sparkle:version="2" sparkle:shortVersionString="1.0" sparkle:deltaFrom="1" length="24109" type="application/octet-stream" sparkle:edSignature="3MdaDnpUOMks5gLxiFBlNkmytqIcwE2SBJcEJb0cwiIFhCaKhMrVOgGvB3C9cL1fz1xmAT3QeTJHuyLLkic/Aw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0</title>
