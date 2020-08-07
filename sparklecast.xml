@@ -4,17 +4,23 @@
         <title>Watercooler</title>
         <item>
             <title>1.0</title>
+            <pubDate>Fri, 07 Aug 2020 16:37:59 -0700</pubDate>
+            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
+            <enclosure url="https://download.getwatercooler.app/Watercooler-1.0.25.app.zip" sparkle:version="25" sparkle:shortVersionString="1.0" length="11302778" type="application/octet-stream" sparkle:edSignature="uwrnlMmCdVRCY68vkCR38mQdTigrcYL1huMG07SMvomO6gZLnXbhvOIp23GSp4EqScx0BrWWsLDU/hZexWmoDA=="/>
+            <sparkle:deltas>
+                <enclosure url="https://download.getwatercooler.app/Watercooler25-24.delta" sparkle:version="25" sparkle:shortVersionString="1.0" sparkle:deltaFrom="24" length="245976" type="application/octet-stream" sparkle:edSignature="sTbn9kgt1UHNJkUl7uo2k38WXxMgcNt2u6Las5kWYhTerkC8DsdQThSSawWds6h9KPe2iuCzW+C6PBlOIbBBDg=="/>
+                <enclosure url="https://download.getwatercooler.app/Watercooler25-23.delta" sparkle:version="25" sparkle:shortVersionString="1.0" sparkle:deltaFrom="23" length="329308" type="application/octet-stream" sparkle:edSignature="7qN9lVRHMO2zDSnCvMox4YS0JmtusndtlrmFpqRVEqBAuTwNUQgqcR4P124waEha7r5KTA4oXXroJPLz/V6PAA=="/>
+                <enclosure url="https://download.getwatercooler.app/Watercooler25-22.delta" sparkle:version="25" sparkle:shortVersionString="1.0" sparkle:deltaFrom="22" length="356325" type="application/octet-stream" sparkle:edSignature="RCvaf2IFG5i7RTxx6557yc3zUBZ8M7GHtMlyea/ze33PdaVlCLi4+Lv7aS5ifhg29IhyFdCwh3FAaJhUp97BBA=="/>
+                <enclosure url="https://download.getwatercooler.app/Watercooler25-21.delta" sparkle:version="25" sparkle:shortVersionString="1.0" sparkle:deltaFrom="21" length="402596" type="application/octet-stream" sparkle:edSignature="vj6S/0WtJpo8jJ/Lif6dU9nCWWFtcKcgJdHUN86xbEjLXyP3Xqao63CuOusPDvSYK1LcS9XWg3/heSozRiX6Ag=="/>
+                <enclosure url="https://download.getwatercooler.app/Watercooler25-20.delta" sparkle:version="25" sparkle:shortVersionString="1.0" sparkle:deltaFrom="20" length="443155" type="application/octet-stream" sparkle:edSignature="hdHYI99e6pwSdlmhcEI/N+Ctq0D0ww9QbWy6Mrm5PLE4T9qAZKNEMnSkVnweJICyor+Jb+cW39HVI26jALMjBA=="/>
+                <enclosure url="https://download.getwatercooler.app/Watercooler25-19.delta" sparkle:version="25" sparkle:shortVersionString="1.0" sparkle:deltaFrom="19" length="455791" type="application/octet-stream" sparkle:edSignature="SXHuRC0DDDLTzcjSRNwQtft2JFGLwfVyiwbQMPUV1oB7IUvILH0yVB0EJk+TFLSleS2GFu6OAvF24vERaRkpAw=="/>
+            </sparkle:deltas>
+        </item>
+        <item>
+            <title>1.0</title>
             <pubDate>Fri, 07 Aug 2020 12:25:57 -0700</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://download.getwatercooler.app/Watercooler-1.0.24.app.zip" sparkle:version="24" sparkle:shortVersionString="1.0" length="11307505" type="application/octet-stream" sparkle:edSignature="REkV01goWqNejEG/3eWe9u83FNkdL32Cx7IgdRdYKN0FZN+3ItsJDv2CutWnAebxbzy7qAFCLU8OovgdVIqlAQ=="/>
-            <sparkle:deltas>
-                <enclosure url="https://download.getwatercooler.app/Watercooler24-23.delta" sparkle:version="24" sparkle:shortVersionString="1.0" sparkle:deltaFrom="23" length="311656" type="application/octet-stream" sparkle:edSignature="PDWKNcNObVfdYOzMR0RUe3sIm/SjvPvt+6F6L+OepGNYNXp9gSAzOmT3BQDNMAqGWuMKCwFIUYb6qQzIGPQIDQ=="/>
-                <enclosure url="https://download.getwatercooler.app/Watercooler24-22.delta" sparkle:version="24" sparkle:shortVersionString="1.0" sparkle:deltaFrom="22" length="322331" type="application/octet-stream" sparkle:edSignature="2XXFWOSBX93/Dy34+0j1H/vgV7+L1zNI/9HwQ0LCJv6gOckE3scBh1rbukYW4v+rRCP+SWmyZnN96vYZRp+RCA=="/>
-                <enclosure url="https://download.getwatercooler.app/Watercooler24-21.delta" sparkle:version="24" sparkle:shortVersionString="1.0" sparkle:deltaFrom="21" length="381859" type="application/octet-stream" sparkle:edSignature="w9uYMIcia4qDIG13YVEjdHHTBwok8uu7dN2mgber9AAWgWnKgpfrXTnRt28rdZ2ASQaiVMhBHeYiu+IiFTSnDQ=="/>
-                <enclosure url="https://download.getwatercooler.app/Watercooler24-20.delta" sparkle:version="24" sparkle:shortVersionString="1.0" sparkle:deltaFrom="20" length="425806" type="application/octet-stream" sparkle:edSignature="EaruquxT9ggc2cFXaC+wHM47xZiEZi0xcChhz8Knu3roEqCGVJCNUEd0dckNt3sq0p72sjpl87KE209HfIh7Bw=="/>
-                <enclosure url="https://download.getwatercooler.app/Watercooler24-19.delta" sparkle:version="24" sparkle:shortVersionString="1.0" sparkle:deltaFrom="19" length="430736" type="application/octet-stream" sparkle:edSignature="UgX0XQ9ZfQV5iQnnWZNIVsOeu1IgcNzCEMIICfsfaZXa8LmkG6xH+enAfw3gMM/LnJzHcnZHYh6XMcvRcu01BA=="/>
-                <enclosure url="https://download.getwatercooler.app/Watercooler24-18.delta" sparkle:version="24" sparkle:shortVersionString="1.0" sparkle:deltaFrom="18" length="660643" type="application/octet-stream" sparkle:edSignature="BwXvCJP9ZOftnYqiOznCA3QY4+zs3g8mCnotDb3XhirRAXHn6Q5b6gzv98zDNw6tRfFqsz7RaJ/XzgsAJJFfAw=="/>
-            </sparkle:deltas>
         </item>
         <item>
             <title>1.0</title>
@@ -33,12 +39,6 @@
             <pubDate>Wed, 05 Aug 2020 12:26:47 -0700</pubDate>
             <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
             <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler-1.0.21.app.zip" sparkle:version="21" sparkle:shortVersionString="1.0" length="11303295" type="application/octet-stream" sparkle:edSignature="hT9KNDGPU4l1bvsurem9jmnVZEsw/2yeOe2bN+U6hbg/RNXQgcMAhn6fOx/me1Du4Eki3LFuQx51f//hCVyXAw=="/>
-        </item>
-        <item>
-            <title>1.0</title>
-            <pubDate>Tue, 04 Aug 2020 22:21:06 -0700</pubDate>
-            <sparkle:minimumSystemVersion>10.13</sparkle:minimumSystemVersion>
-            <enclosure url="https://watercooler-appcast.sfo2.digitaloceanspaces.com/Watercooler-1.0.20.zip" sparkle:version="20" sparkle:shortVersionString="1.0" length="11298969" type="application/octet-stream" sparkle:edSignature="nzYTVYsV1xbYnJ5rwvAnD7r8HSTnXWD1dDGInzRfipwgwXKhnoglkMeu8OTU0HXB/2R7UUIWTEzAnj5lGQg1CQ=="/>
         </item>
     </channel>
 </rss>
